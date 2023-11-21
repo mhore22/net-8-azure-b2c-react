@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/net-8-azure-b2c-react/.vs/net-8-azure-b2c-react
+/net-8-azure-b2c-react/net-8-azure-b2c-react.client/obj/Debug
+/net-8-azure-b2c-react/net-8-azure-b2c-react.Server/bin/Debug/net8.0
+/net-8-azure-b2c-react/net-8-azure-b2c-react.Server/obj
