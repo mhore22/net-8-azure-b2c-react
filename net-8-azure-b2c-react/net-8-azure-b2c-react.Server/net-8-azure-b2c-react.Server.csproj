@@ -8,7 +8,7 @@
     <RootNamespace>net_8_azure_b2c_react.Server</RootNamespace>
     <SpaRoot>..\net-8-azure-b2c-react.client</SpaRoot>
     <SpaProxyLaunchCommand>npm run dev</SpaProxyLaunchCommand>
-    <SpaProxyServerUrl>https://localhost:5173</SpaProxyServerUrl>
+    <SpaProxyServerUrl>https://localhost:44449</SpaProxyServerUrl>
   </PropertyGroup>
 
   <ItemGroup>
